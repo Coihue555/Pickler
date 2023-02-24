@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Pickler
+Icon=/home/coihue/Pictures/picklerIcon.png
+Exec=/home/coihue/pickler.sh
